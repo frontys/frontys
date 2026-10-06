@@ -18,7 +18,7 @@ Python & .NET student developer. Telegram bots, AI tools, desktop automation.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frontys&layout=compact&theme=tokyonight)
 
 ### 📫 Contact
-- Email: frontys@users.noreply.github.com
+- GitHub: [@frontys](https://github.com/frontys)
 - Student Pack: approved (Oct 2026)
 
 _Pinned repos below 👇_
