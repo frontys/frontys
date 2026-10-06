@@ -19,7 +19,8 @@ Python & .NET student developer. Telegram bots, AI tools, desktop automation.
 
 ### 📫 Contact
 - Email: frontys@users.noreply.github.com
-- Student Pack: in progress (GitHub Pro + Copilot)
+- Student Pack: approved (Oct 2026)
 
 _Pinned repos below 👇_
+
 
