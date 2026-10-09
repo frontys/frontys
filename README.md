@@ -50,20 +50,6 @@
 
 ---
 
-<h3 align="left">⚡ Beyond the Terminal</h3>
-
-<table align="center" border="0" width="100%">
-  <tr>
-    <td align="center" width="40%">
-      <img src="assets/rias-sunset.gif" width="280" style="border-radius: 10px; border: 1px solid #bb9af7; box-shadow: 0 4px 20px rgba(187, 154, 247, 0.15);" alt="Sunset vibe" />
-    </td>
-    <td align="left" width="60%" style="padding-left: 20px;">
-      <ul>
-        <li>🔭 <strong>When I'm not coding:</strong> debugging Dota 2 match data frames or soaking in sunset lo-fi vibes.</li>
-        <li>☕ <strong>Fuel:</strong> strong coffee and figuring out new ways to integrate AI into desktop workflows.</li>
-        <li>🎨 <strong>Aesthetic:</strong> Tokyonight dark mode & warm golden hours.</li>
-        <li>🧩 <strong>Philosophy:</strong> clean code, quiet mind.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="assets/rias-sunset.gif" width="280" style="border-radius: 10px; border: 1px solid #bb9af7; box-shadow: 0 4px 20px rgba(187, 154, 247, 0.15);" alt="Sunset vibe" />
+</p>
