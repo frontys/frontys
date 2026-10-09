@@ -1,17 +1,24 @@
 ﻿<h1 align="center">Hi there 👋, I'm frontys</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Python+%26+.NET+Developer;Telegram+Bots+%26+Automation;AI+Integration+%26+MCP;Desktop+Applications" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub%20Student-Developer%20Pack-blue?style=for-the-badge&logo=github&color=7AA2F7" alt="Student Pack" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/.NET%209-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini" />
-</p>
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center" valign="middle" style="padding-right: 24px;">
+      <img src="assets/rias-sunset.gif" width="220" style="border-radius: 12px; border: 1px solid #bb9af7; box-shadow: 0 4px 20px rgba(187, 154, 247, 0.2);" alt="Sunset vibe" />
+    </td>
+    <td align="center" valign="middle">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=440&lines=Python+%26+.NET+Developer;Telegram+Bots+%26+Automation;AI+Integration+%26+MCP;Desktop+Applications" alt="Typing SVG" />
+      <br><br>
+      <div>
+        <img src="https://img.shields.io/badge/GitHub%20Student-Developer%20Pack-blue?style=for-the-badge&logo=github&color=7AA2F7" alt="Student Pack" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/.NET%209-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+        <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+        <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini" />
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -46,10 +53,4 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=frontys&theme=tokyonight&hide_border=true&background=1a1b26" alt="GitHub Streak" />
-</p>
-
----
-
-<p align="center">
-  <img src="assets/rias-sunset.gif" width="280" style="border-radius: 10px; border: 1px solid #bb9af7; box-shadow: 0 4px 20px rgba(187, 154, 247, 0.15);" alt="Sunset vibe" />
 </p>
