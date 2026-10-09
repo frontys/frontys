@@ -23,6 +23,7 @@
 | 💬 **telegram-overlay** | Sleek overlay utility built with Telethon for Telegram | Python, Telethon, Asyncio | [Repository](https://github.com/frontys/telegram-overlay) |
 | 🤖 **ai-bridge** | Powerful and lightweight wrapper for Google Gemini API | Python, Gemini API | [Repository](https://github.com/frontys/ai-bridge) |
 | ⚡ **TgMini** | Portable, high-performance Telegram utility built for .NET 9 | C#, .NET 9, WinForms/WPF | [Repository](https://github.com/frontys/TgMini) |
+| ⚛️ **react-itstep** | React + Vite ITStep assignments, one folder per date | React, TypeScript, Vite | [Live site](https://frontys.github.io/react-itstep/) |
 
 ---
 
